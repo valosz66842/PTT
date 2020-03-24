@@ -1,6 +1,12 @@
+
 以下VM內部指令
 
-
+安裝git
+yum install git
+下載資料
+git clone https://github.com/valosz66842/PTT.git
+進入資料夾
+cd PTT
 安裝docker
 sudo yum install -y yum-utils \
   device-mapper-persistent-data \
