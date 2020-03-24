@@ -1,3 +1,4 @@
+mkdir mongo
 FROM continuumio/anaconda3
 ADD ./PTT /opt/PTT
 WORKDIR /opt/PTT
